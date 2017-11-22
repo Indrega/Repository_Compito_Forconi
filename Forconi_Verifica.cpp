@@ -8,16 +8,12 @@ using namespace std;
 
 int main()
 {
+    int contatore = 0;
 	for (int i = 0; i<10; i++) {
-		cout << i;
-		cout << "conta";
+		cout << contatore;
+		contatore++; //incremento del contatore
 	}
-<<<<<<< HEAD
-	system("pause"); 
-	return 0; //fine del programma è questa
-=======
 	system("pause");
 	return 0;  //questa è la fine del programma e basta
->>>>>>> FIX_BUG
 }
 
