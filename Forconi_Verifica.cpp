@@ -10,9 +10,9 @@ int main()
 {
 	for (int i = 0; i<10; i++) {
 		cout << i;
-		cout << "contatore";
+		cout << "conta";
 	}
 	system("pause");
-	return 0;  //questa è la fine del programma
+	return 0;  //questa Ã¨ la fine del programma
 }
 
