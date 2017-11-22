@@ -13,6 +13,6 @@ int main()
 		cout << "conta";
 	}
 	system("pause");
-	return 0;  //questa è la fine del programma
+	return 0;  //questa è la fine del programma e basta
 }
 
