@@ -12,7 +12,7 @@ int main()
 		cout << i;
 		cout << "conta";
 	}
-	system("pause");
-	return 0;
+	system("pause"); 
+	return 0; //fine del programma
 }
 
