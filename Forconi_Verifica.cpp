@@ -10,7 +10,7 @@ int main()
 {
 	for (int i = 0; i<10; i++) {
 		cout << i;
-		cout << "conta";
+		cout << "contatore";
 	}
 	system("pause"); 
 	return 0; //fine del programma è questa
