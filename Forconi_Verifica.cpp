@@ -8,9 +8,10 @@ using namespace std;
 
 int main()
 {
+    int contatore = 0;
 	for (int i = 0; i<10; i++) {
-		cout << i;
-		cout << "conta";
+		cout << contatore;
+		contatore++; //incremento del contatore
 	}
 	system("pause");
 	return 0;  //questa è la fine del programma e basta
