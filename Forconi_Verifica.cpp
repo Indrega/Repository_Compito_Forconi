@@ -13,6 +13,6 @@ int main()
 		cout << "contatore";
 	}
 	system("pause");
-	return 0;
+	return 0;  //questa è la fine del programma
 }
 
