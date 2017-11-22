@@ -11,7 +11,7 @@ int main()
     int contatore = 0;
 	for (int i = 0; i<10; i++) {
 		cout << contatore;
-		contatore++; //incremento del contatore
+		contatore++; //incremento del contatore per la stampa
 	}
 	system("pause");
 	return 0;  //questa è la fine del programma e basta
